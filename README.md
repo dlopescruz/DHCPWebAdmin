@@ -2,7 +2,7 @@
 Web based isc-dhcp-server administration 
 Adicione, altere e remove vários "pools" do /etc/dhcp/dhcpd.conf via web. 
  
-Pré-requisitos: 
+# Pré-requisitos: 
 GNU/Linux (testado no Debian Strecth 9.4) <br>
 Apache 2.4 <br>
 PHP 7.0 <br>
