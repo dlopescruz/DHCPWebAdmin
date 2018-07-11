@@ -10,3 +10,14 @@ libapache2-mod-php7.0 <br>
 PHP7.0-mysql module <br>
 Mysql server 5.5 <br>
 Expect 5.45   
+
+# Installation
+Copy all files .php, css and javascript directories to your server web directory.
+Create a database such as dump file "db.sql" structure on mysql-server.
+
+# Default user
+The deafult user is "admin" and password "admin"
+To change the password, edit the "settings.php" file and alter the line 29 with new password in md5 format.
+
+
+Enjoy.
