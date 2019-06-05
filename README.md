@@ -1,3 +1,5 @@
+Author: Diego Lopes da Cruz - diego.lopes@gmail.com
+
 # DHCPWebAdmin
 Web based isc-dhcp-server administration. <br>
 Add, alter and remove many "pools" in /etc/dhcp/dhcpd.conf with PHP. 
